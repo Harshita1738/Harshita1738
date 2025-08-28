@@ -1,5 +1,5 @@
-👋 Hi there! I’m a passionate frontend developer with a strong foundation in HTML, CSS, and JavaScript, focused on creating dynamic, responsive web applications. I enjoy solving problems through code and have built several projects that showcase my skills in user-centered design and development.
-
-🔧 I’m currently expanding my expertise into backend development with Node.js and Django, aiming to become a versatile full-stack developer. I love participating in hackathons and collaborating on open-source projects, where I can learn new technologies and contribute to the community.
-
-💻 Check out my repositories to see what I’m working on, and feel free to connect if you’re interested in collaborating on exciting projects!
+Passionate about Artificial Intelligence, Machine Learning, and Data Science, I am currently working as an AI/ML Intern where I’m gaining hands-on experience in building ML models, data preprocessing, and applying AI techniques to solve real-world problems.
+🔹 Skilled in Python, TensorFlow/PyTorch, scikit-learn, Pandas, and SQL
+🔹 Interested in Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), and Generative AI
+🔹 Actively exploring research-driven solutions and end-to-end ML pipelines
+I’m eager to keep learning, collaborate with innovative teams, and contribute to impactful AI projects.
